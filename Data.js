@@ -1338,9 +1338,9 @@ export const categories = [
       {
         id: "kerb-painting-machine",
         name: "Kerb Painting Machines",
-        metaTitle: "Kerb Painting Machines | Vands Engineering",
+        metaTitle: "Kerb Painting Machine Manufacturer India | Vands",
         metaDescription:
-          "Vands Engineering Solutions offers reliable Kerb Painting Machines for industrial use. Trusted manufacturer and wholesaler delivering performance and durability.",
+          "Buy a high-performance Kerb Painting Machine from Vands Engineering Solutions. Honda engine, 3300 PSI pressure and airless spray technology for road marking projects.",
 
         description: [
           { type: "h2", text: "Overview" },
